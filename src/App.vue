@@ -3,6 +3,7 @@
     <nav class="nav justify-content-center">
       <router-link to="/" class="nav-link">Home</router-link>
       <router-link to="/about" class="nav-link">About</router-link>
+      <router-link to="/demo" class="nav-link">Demo</router-link>
     </nav>
     <router-view />
   </div>
